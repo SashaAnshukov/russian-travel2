@@ -7,7 +7,7 @@
     box-sizing: border-box;
 }
 
-@media screen and (max-width:1279px) {
+/*@media screen and (max-width:1279px) {
     .lead__image {
         min-height: 580px;
     }
@@ -23,4 +23,4 @@
     .lead__image {
         min-height: 200px;
     }
-}
+}*/

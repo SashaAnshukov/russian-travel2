@@ -20,7 +20,7 @@
         font-size: 42px;
         line-height: 46px;
         max-width: 340px;
-        min-height: 92px;
+        /*min-height: 92px;*/
     }
 }
 
@@ -30,6 +30,6 @@
         font-size: 32px;
         line-height: 35px;
         max-width: 288px;
-        min-height: 35px;
+        /*min-height: 35px;*/
     }
 }

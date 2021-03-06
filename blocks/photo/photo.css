@@ -1,14 +1,14 @@
 .photo {
-        min-height: 671px;
-        display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        grid-template-rows: repeat(3, 1fr);
-        grid-auto-rows: 100px 1fr;
-        gap: 16px;
-        margin-top: 0;
-        margin-left: 48px;
-        margin-right: 48px;
-        margin-bottom: 92px;
+    min-height: 671px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    grid-auto-rows: 100px 1fr;
+    gap: 16px;
+    margin-top: 0;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 92px;
 }
 
 @media screen and (max-width:1279px) {
